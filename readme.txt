@@ -1,4 +1,4 @@
-ruby on rails３にて携帯サイトを作った際に、googleアナリティクス解析ライブラリー
+ruby on rails３の携帯サイトでgoogleアナリティクスを解析するライブラリー
 
 前提条件
 1、jpmobile (1.0.0.pre)
@@ -59,4 +59,4 @@ ruby on rails３にて携帯サイトを作った際に、googleアナリティ�
 <% end %>
 
 
-以上で設置できる。
+以上で設置できます。
